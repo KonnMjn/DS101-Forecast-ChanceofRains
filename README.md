@@ -82,7 +82,9 @@ You can run each section step by step and modify parameters to test different se
 ---
 
 ## 📄 License
-This project is for educational purposes. The dataset is attributed to the original Kaggle author. Feel free to use, modify, and distribute with attribution.
+📌 Code components are licensed under the MIT License, allowing reuse, modification, and distribution with attribution and no warranty.
+
+📎 Non-code contents are shared under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0), allowing reuse with attribution for non-commercial purposes.
 
 ---
 
