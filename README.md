@@ -16,6 +16,8 @@ This project aims to predict the probability of rainfall the next day using mult
 ---
 
 ## 📁 Project Structure
+
+```
 rain-prediction-project/
 ├── cleaned_weatherAUS.csv # Weather dataset
 ├── main.ipynb # Jupyter notebook with full implementation
@@ -24,6 +26,7 @@ rain-prediction-project/
 ├── .gitignore 
 ├── requirements.txt 
 ├── README.md 
+```
 
 ---
 
