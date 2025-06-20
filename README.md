@@ -66,8 +66,8 @@ This project applies three statistical and machine learning methods to predict r
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/KonnMjn/DS101-Forecast-ChanceofRains.git
-cd DS101-Forecast-ChanceofRains
+git clone https://github.com/KonnMjn/DS101-Rain-Prediction.git
+cd DS101-Rain-Prediction
 ```
 ### 2. Install dependencies
 ```bash
