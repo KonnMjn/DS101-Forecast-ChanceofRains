@@ -1,6 +1,6 @@
-# 🌧️ Rainfall Prediction Project
+# 🌧️ Rain Prediction Project
 
-This project aims to predict the probability of rainfall the next day using multiple approaches including Naive Bayes, Markov Chains, and Monte Carlo simulation with Logistic Regression. 
+This project aims to predict the probability of rain the next day using multiple approaches including Naive Bayes, Markov Chains, and Monte Carlo simulation with Logistic Regression. 
 
 ---
 
